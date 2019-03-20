@@ -1,0 +1,25 @@
+{
+    "name": "Laravel BAP/testimonials",
+    "description": "",
+    "authors": [
+        {
+            "name": "Laravel BAP - Business Application Platform",
+            "email": "code@laravel-bap.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Testimonials\\Providers\\TestimonialsServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Testimonials\\": ""
+        }
+    }
+}

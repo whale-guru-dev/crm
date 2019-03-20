@@ -1,0 +1,3 @@
+/vendor/*
+.env
+/public/saas/node_modules
